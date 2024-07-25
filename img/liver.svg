@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="100"
+   viewBox="0 0 52.916665 26.458333"
+   version="1.1"
+   id="svg995"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="liver.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview997"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-169.5"
+     inkscape:cy="22.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1392"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text1224">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1170"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs992">
+    <rect
+       x="-106.77312"
+       y="-209.30361"
+       width="460.32651"
+       height="235.46656"
+       id="rect1478" />
+    <rect
+       x="0"
+       y="0"
+       width="200"
+       height="100"
+       id="rect1226" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0d0d0d;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1168"
+       width="52.916664"
+       height="26.458332"
+       x="0"
+       y="0" />
+    <g
+       aria-label="Liver"
+       transform="matrix(0.34726576,0,0,0.34726576,-7.3141828,-5.8208332)"
+       id="text1224"
+       style="font-size:85.3333px;font-family:Liver;-inkscape-font-specification:Liver;text-align:center;text-anchor:middle;white-space:pre;shape-inside:url(#rect1226);fill:#ffffff;stroke-linejoin:round;paint-order:stroke markers fill">
+      <path
+         d="m 33.333361,31.999987 h 5.333331 v 37.333317 h 21.333325 v 5.333332 H 33.333361 Z"
+         id="path1389" />
+      <path
+         d="m 65.333348,31.999987 h 5.333331 v 5.333331 h -5.333331 z m 0,10.666662 h 5.333331 v 31.999987 h -5.333331 z"
+         id="path1391" />
+      <path
+         d="m 76.00001,42.666649 h 5.333331 l 7.999997,23.99999 7.999996,-23.99999 h 5.333336 L 92.000003,74.666636 h -5.333331 z"
+         id="path1393" />
+      <path
+         d="m 110.58333,45.749981 q 2.66666,-3.083332 10.74999,-3.083332 8.08333,0 10.66666,3.083332 2.66667,2.999999 2.66667,12.916661 h -21.33332 q 0,6.916664 1.41666,8.83333 1.5,1.833332 6.58333,1.833332 4,0 5.58333,-0.999999 1.66667,-1 2.16667,-4.333332 h 5.41666 q -0.58333,6.416664 -3.41666,8.58333 -2.75,2.083333 -9.75,2.083333 -8.08333,0 -10.74999,-2.999999 -2.58334,-3.083332 -2.58334,-12.999995 0,-9.916662 2.58334,-12.916661 z m 10.74999,2.249999 q -4.08333,0 -5.66666,1.083333 -1.58333,1.083333 -2.08333,4.249998 h 15.49999 q -0.5,-3.333332 -2.08333,-4.333331 -1.5,-1 -5.66667,-1 z"
+         id="path1395" />
+      <path
+         d="m 139.99999,42.666649 h 5.33333 v 4.666665 q 0.91666,-2.583333 2.75,-3.583332 1.83333,-1 4.91666,-1.083333 h 0.33333 q 3.66667,0 5.5,2.249999 1.83334,2.166666 2.33333,8.416663 h -5.41666 q -0.33333,-3.249999 -1.5,-4.249998 -1.08333,-1.083333 -3.58333,-1.083333 -3.08333,0 -4.16667,1.833333 -1.08333,1.833332 -1.16666,7.999996 v 0.833333 15.999994 h -5.33333 z"
+         id="path1397" />
+    </g>
+  </g>
+</svg>
